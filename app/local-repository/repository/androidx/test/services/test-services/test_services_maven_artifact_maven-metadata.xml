@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>androidx.test.services</groupId>
+  <artifactId>test-services</artifactId>
+  <version>1.6.0-alpha05</version>
+  <versioning>
+    <release>1.6.0-alpha05</release>
+    <versions>
+      <version>1.6.0-alpha05</version>
+    </versions>
+  <lastUpdated>20191210000000</lastUpdated>
+  </versioning>
+</metadata>

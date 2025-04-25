@@ -44,6 +44,8 @@ dependencies {
     implementation(libs.androidx.constraintlayout)
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
-    androidTestImplementation(libs.androidx.espresso.core)
-    androidTestImplementation("androidx.test.espresso:espresso-remote:3.6.1")
+    //androidTestImplementation(libs.androidx.espresso.core)
+    //androidTestImplementation("androidx.test.espresso:espresso-remote:3.6.1")
+    androidTestImplementation("androidx.test.espresso:espresso-remote:3.7.0-alpha04")
+    androidTestImplementation("androidx.test.espresso:espresso-core:3.7.0-alpha04")
 }
